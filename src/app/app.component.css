@@ -1,0 +1,21 @@
+
+.navi {
+    display: flex;
+    justify-content: center;
+}
+nav {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border: 1px solid rgb(99, 179, 237);
+    width: 95%;
+    height: 100%;
+    padding: 30px;
+    margin: 0px 20px 30px 20px;
+
+    border-radius: 20px;
+    background-color: rgba(99,179,237);
+}
+nav a {
+    color: white;
+}
